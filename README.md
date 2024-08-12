@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Temba Gobingca
 ======================================================================================================================================
 
-Senior DTP Designer and UX/UI Designer
+Senior DTP Designer and UX/UI Designer & Frontend Dev
 --------------------------------------
 
 I've got more that 12 years of experience as a designer, been learning to code in the passed 5 years, recently doing User Center Design just to get insights and knowledge UX research... So I can do better on my front End skills...

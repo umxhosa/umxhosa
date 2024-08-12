@@ -10,11 +10,13 @@ I've got more that 12 years of experience as a designer, been learning to code i
 *   ✉️  You can contact me at [tgobingca@gmail.com](mailto:tgobingca@gmail.com)
 *   🧠  I'm learning react js
 *   🤝  I'm open to collaborating on Anyone keen to explore dev languages
-*   ⚡  I design by the day and code at night.<a href="https://www.github.com/umxhosa" target="_blank" rel="noreferrer"><img
+*   ⚡  I design by the day and code at night.
+<a href="https://www.github.com/umxhosa" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/umxhosa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/umxhosa" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/umxhosa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.twitch.tv/umxhosa" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/umxhosa?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>### Skills 
+                  src="https://img.shields.io/twitch/status/umxhosa?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+### Skills 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>

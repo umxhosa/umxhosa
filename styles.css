@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+    display: block;
+}
+
+body {
+    font: 14px / 24px "Roboto", Helvetica, Helvetica Neue, Arial, San serif;
+    font-family: 300;
+}
+#header {
+    top: 0;
+    width: 100%;
+    position: fixed;
+    background: #222;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    z-index: 99999;
+}
+.clearfix {
+    clear: both;
+}
+#umxhosa-nav {
+    margin: auto;
+    width: 960px;
+    background: #222;
+}
+#umxhosa-nav .umxhosa-nav-container {
+    margin: auto;
+    width: 840px;
+}
+#umxhosa-nav ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0;
+}
+#umxhosa-nav ul li{
+    text-align: center;
+    margin: 0;
+    float: left;
+    width: 100px;
+}
+li {
+    line-height: 20px;
+    display: list-item;
+    unicode-bidi: isolate;
+}
+a, a:hover {
+    color: #ec2125;
+}
+#umxhosa-nav ul li a {
+    font-family: "Roboto Condensed";
+    border-top: 3px solid #000;
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+}
+#umxhosa-nav li {
+    margin: 0px;
+    float: left;
+    padding: 20px 10px;
+    width: 100px;
+    text-align: center;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+#umxhosa-nav ul li .umxhosa-logo-container {
+    position: absolute;
+    top: 5px;
+}
+#umxhosa-nav ul li .umxhosa-logo-container img {
+    cursor: pointer;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Umxhosa | Fullstack</title>
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,500" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" rel="stylesheet" type="text/css">
+</head>
+    <body id="top" style="display: block;">
+        <header id="header" class="clearfix">
+            <div id="umxhosa-nav" class="umxhosa-nav">
+                <div class="umxhosa-nav-container">
+                    <ul class="clearfix">
+                        <li data-100="padding: 20px 10px" data-800="padding: 10px" class="skrollable unrendered" style="padding: 20px 10px;">
+                            <a href="#about">About</a>
+                        </li>
+                        <li data-100="padding: 20px 10px" data-800="padding: 10px" class="skrollable unrendered" style="padding: 20px 10px;">
+                            <a href="#services">Services</a>
+                        </li>
+                        <li data-100="padding: 20px 10px" data-800="padding: 10px" class="skrollable unrendered" style="padding: 20px 10px;">
+                            <a href="#works">Works</a>
+                        </li>
+                        <li class="umxhosa-logo-li">
+                            <div class="umxhosa-logo-container">
+                                <img data-100="max-width:100" data-800="max-width:80%" src="umxhosa-logo.svg" id="home" title="Back to Umxhosa" class="skrollable unrendered" style="max-width: 100%;">
+                        </li>
+                        <li data-100="padding: 20px 10px" data-800="padding: 10px" class="skrollable unrendered" style="padding: 20px 10px;">
+                            <a href="#team">Team</a>
+                        </li>
+                        <li data-100="padding: 20px 10px" data-800="padding: 10px" class="skrollable unrendered" style="padding: 20px 10px;">
+                            <a href="#contact">Contact</a>
+                        </li>
+                        <li data-100="padding: 20px 10px" data-800="padding: 10px" class="skrollable unrendered" style="padding: 20px 10px;">
+                            <a href="#login">Login</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </header>
+        <--! container -->
+        <section id="slide">
+            <div class="slide-cover" style="top: 80px"></div>
+            <div class="slide-designer" style="opacity:1;">
+                <h2>+ Designer</h2>
+    </body>
+</html>
